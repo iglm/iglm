@@ -18,6 +18,13 @@ El libro digital de la finca cafetera: fincas y lotes, actividades y labores, re
 - 📲 Aplicación: https://finca-bean-ledger.lovable.app
 - 🔒 [Política de Privacidad](https://iglm.github.io/privacidad/) · [Términos de uso](https://iglm.github.io/terminos/)
 
+## 📚 Libros
+
+Autor de dos libros técnicos, cada uno con su edición interactiva viva y su aplicación complementaria, y con ediciones actualizadas cada año:
+
+- 🧪 **Ácidos húmicos en Colombia** — producción desde leonardita con KOH, fundamentos, suelo, planta, dosis y regulación, con evidencia verificada y fichas de campo. App complementaria: *Humatos Prácticos*, calculadora de dosis y producción.
+- 🍌 **El cultivo del plátano** — el cultivo con alcance mundial para el lector colombiano, con énfasis en la asociación plátano–café: 7 partes, 26 capítulos y fichas de campo. App complementaria: *Costos de Plátano*.
+
 ## Más
 
 - 🌍 Sitio web: [IGLM — Software y Asesoría Agrícola](https://iglm.github.io/)
