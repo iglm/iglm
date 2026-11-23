@@ -4,6 +4,12 @@
 
 - ORCID: [0000-0002-9662-2087](https://orcid.org/0000-0002-9662-2087)
 
+## Prioridad de producción
+
+La prioridad principal es la **producción de artículos y libros**, especialmente sobre agricultura tropical, investigación aplicada y experiencia de campo.
+
+Los **videos y cómics** se producirán después: quedan **de último en la fila** frente a la producción editorial escrita.
+
 ## A qué me dedico
 
 - ☕ **Caficultura y extensión rural:** monitoreo de broca y roya, planificación de labores, gestión de cosechas y administración de fincas cafeteras.
